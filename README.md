@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+https://blazerius54.github.io/news-api/
+
 ## Build Setup
 
 ``` bash
